@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{5791754B-0D3E-4294-955B-DF85326A0D15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migracion", "Migracion", "{59507E3B-6970-47C9-BBE7-366B7F025E7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Empresa", "Empresa", "{9036B3FB-38B5-4182-83EF-3635CD6D3117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Migracion.Empresa", "Web\Migracion\Empresa\Web.Migracion.Empresa\Web.Migracion.Empresa.csproj", "{67524E84-CAF2-4D59-8077-65336067A3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67524E84-CAF2-4D59-8077-65336067A3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67524E84-CAF2-4D59-8077-65336067A3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67524E84-CAF2-4D59-8077-65336067A3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67524E84-CAF2-4D59-8077-65336067A3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59507E3B-6970-47C9-BBE7-366B7F025E7B} = {5791754B-0D3E-4294-955B-DF85326A0D15}
+		{9036B3FB-38B5-4182-83EF-3635CD6D3117} = {59507E3B-6970-47C9-BBE7-366B7F025E7B}
+		{67524E84-CAF2-4D59-8077-65336067A3D9} = {9036B3FB-38B5-4182-83EF-3635CD6D3117}
+	EndGlobalSection
+EndGlobal
