@@ -1,0 +1,5 @@
+D:\github\Convivencia\RUV.Convivencia\Modelo\Empresa\RUV.Convivencia.Modelo.Empresa\bin\Debug\RUV.Convivencia.Modelo.Empresa.dll
+D:\github\Convivencia\RUV.Convivencia\Modelo\Empresa\RUV.Convivencia.Modelo.Empresa\bin\Debug\RUV.Convivencia.Modelo.Empresa.pdb
+D:\github\Convivencia\RUV.Convivencia\Modelo\Empresa\RUV.Convivencia.Modelo.Empresa\obj\Debug\RUV.Convivencia.Modelo.Empresa.csprojResolveAssemblyReference.cache
+D:\github\Convivencia\RUV.Convivencia\Modelo\Empresa\RUV.Convivencia.Modelo.Empresa\obj\Debug\RUV.Convivencia.Modelo.Empresa.dll
+D:\github\Convivencia\RUV.Convivencia\Modelo\Empresa\RUV.Convivencia.Modelo.Empresa\obj\Debug\RUV.Convivencia.Modelo.Empresa.pdb

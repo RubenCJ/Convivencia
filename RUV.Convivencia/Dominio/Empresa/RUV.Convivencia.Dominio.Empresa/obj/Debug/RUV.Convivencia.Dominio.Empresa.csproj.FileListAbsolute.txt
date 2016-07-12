@@ -1,0 +1,4 @@
+D:\github\Convivencia\RUV.Convivencia\Dominio\Empresa\RUV.Convivencia.Dominio.Empresa\bin\Debug\RUV.Convivencia.Dominio.Empresa.dll
+D:\github\Convivencia\RUV.Convivencia\Dominio\Empresa\RUV.Convivencia.Dominio.Empresa\bin\Debug\RUV.Convivencia.Dominio.Empresa.pdb
+D:\github\Convivencia\RUV.Convivencia\Dominio\Empresa\RUV.Convivencia.Dominio.Empresa\obj\Debug\RUV.Convivencia.Dominio.Empresa.dll
+D:\github\Convivencia\RUV.Convivencia\Dominio\Empresa\RUV.Convivencia.Dominio.Empresa\obj\Debug\RUV.Convivencia.Dominio.Empresa.pdb
