@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 @Component({
-  selector: 'app',
-  template: '<h1>Second Jacobo</h1>'
+    selector: 'ruv-migracion',
+    templateUrl: 'app/login/login.componente.html'
 })
 export class AppComponent { }

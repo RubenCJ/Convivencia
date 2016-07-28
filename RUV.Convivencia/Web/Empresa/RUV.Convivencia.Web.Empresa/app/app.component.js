@@ -14,8 +14,8 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         core_1.Component({
-            selector: 'app',
-            template: '<h1>Second Jacobo</h1>'
+            selector: 'ruv-migracion',
+            templateUrl: 'app/login/login.componente.html'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

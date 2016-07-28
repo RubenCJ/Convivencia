@@ -123,6 +123,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\login\login.componente.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -134,6 +135,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="package.json" />
     <None Include="scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
@@ -166,11 +168,11 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Empresa\Index.cshtml" />
     <Content Include="typings.json" />
-	<Content Include="typings\globals\core-js\typings.json" />
+    <Content Include="typings\globals\core-js\typings.json" />
     <Content Include="typings\globals\jasmine\typings.json" />
     <Content Include="typings\globals\node\typings.json" />
-	<Content Include="typings\modules\ramda\typings.json" />
-	<Content Include="typings\globals\applicationinsights-js\typings.json" />
+    <Content Include="typings\modules\ramda\typings.json" />
+    <Content Include="typings\globals\applicationinsights-js\typings.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -187,8 +189,9 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app\app.component.ts" />
+    <TypeScriptCompile Include="app\login\login.componente.ts" />
     <TypeScriptCompile Include="app\main.ts" />
-	<TypeScriptCompile Include="typings\globals\applicationinsights-js\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\applicationinsights-js\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\core-js\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\jasmine\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\node\index.d.ts" />
@@ -198,7 +201,7 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
-  </PropertyGroup>  
+  </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <TypeScriptTarget>ES5</TypeScriptTarget>
@@ -214,7 +217,7 @@
     <TypeScriptSourceMap>True</TypeScriptSourceMap>
     <TypeScriptMapRoot />
     <TypeScriptSourceRoot />
-	<TypeScriptExperimentalDecorators>True</TypeScriptExperimentalDecorators>
+    <TypeScriptExperimentalDecorators>True</TypeScriptExperimentalDecorators>
     <TypeScriptEmitDecoratorMetadata>True</TypeScriptEmitDecoratorMetadata>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />

@@ -43,6 +43,5 @@ D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\bi
 D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\bin\System.Web.Webpages.Razor.xml
 D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\bin\System.Web.Helpers.xml
 D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\bin\System.Web.Mvc.xml
-D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\obj\Debug\RUV.Convivencia.Web.Empresa.csprojResolveAssemblyReference.cache
 D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\obj\Debug\RUV.Convivencia.Web.Empresa.dll
 D:\github\Convivencia\RUV.Convivencia\Web\Empresa\RUV.Convivencia.Web.Empresa\obj\Debug\RUV.Convivencia.Web.Empresa.pdb
