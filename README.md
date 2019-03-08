@@ -1,3 +1,2 @@
-# Convivencia
-Repositorio de código de convivencia
-Cambio por rama
+# Rubén Corona Jacobo
+Codigo de practica
