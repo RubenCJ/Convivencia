@@ -1,0 +1,48 @@
+*,*:after, *:before{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+#contenedor_carga{
+    background-color: rgba(178, 221, 154, 0.5);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 10000;
+}
+
+
+#carga{
+   
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border-top: 8px solid rgb(132,192,0);
+    border-right: 8px solid rgb(132,192,0);
+    border-bottom: 8px solid rgb(132,192,0);
+    border-left: 8px solid rgba(132,192,0,.2);
+
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+
+    -webkit-animation: girar 1.5s linear infinite;
+    -o-animation: girar 1.5s linear infinite;
+    animation: girar 1.5s linear infinite;
+
+
+}
+
+@keyframes girar {
+    from { transform: rotate(0deg);}
+    to { transform: rotate(1turn)}
+}
